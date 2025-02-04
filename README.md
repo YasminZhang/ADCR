@@ -1,5 +1,6 @@
 # Learning Difference-of-Convex Regularizers for Inverse Problems: A Flexible Framework with Theoretical Guarantees
-
+[![Static Badge](https://img.shields.io/badge/paper-arxiv_link-blue)
+](https://arxiv.org/abs/2502.00240) 
 
 ## Environment Installation
 ```bash
